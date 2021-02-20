@@ -1,6 +1,6 @@
 ### Sumokai
 
 
-Twitter : https://twitter.com/sumokai_
+Twitter : @sumokai_
 
 Youtube https://youtube.com/c/sumokai
