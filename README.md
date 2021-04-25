@@ -1,8 +1,4 @@
 ### Sumokai
-
-
-Twitter : "https://twitter.com/sumokai_"
-
-Youtube : https://youtube.com/c/sumokai
-
-Soundcloud : https://soundcloud.com/sumokai
+[Twitter](https://twitter.com/sumokai_)
+[Youtube](https://youtube/c/sumokai)
+[Soundcloud](https:/soundcloud.com/sumokai)
