@@ -1,7 +1,7 @@
 ### Sumokai
 
 
-Twitter : @sumokai_
+Twitter : https://twitter.com/sumokai_
 
 Youtube : https://youtube.com/c/sumokai
 
